@@ -27,9 +27,11 @@ Dynamic path planning, Sea area division, K-Nearest Neighbors Algorithhm, D* Alg
 
 * 结果：通过对比不同划分点下的路径总长度，确定最优划分点(25,28)，并展示了动态重规划过程。
 
+<img width="1514" height="749" alt="image" src="https://github.com/user-attachments/assets/ff9aa2e1-3647-4928-822c-9ace9e340f29" />
+
 
 ## 引用格式
 建议引用格式：
 ~~~text
-Wenrui Ouyang, Qi Xi, Wentian Xu, Jing Wang. 2025. A Dynamic Path Planning Method considering Sea Area Division for Off-shore Wind Farm Maintenance. In Proceedings of the International Conference on Maritime Science and Engineering (MSCE '25). ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3760023.3760081
+Ouyang W, Xu W, Xi Q, et al. A Dynamic Path Planning Method considering Sea Area Division for Off-shore Wind Farm Maintenance[C]//Proceedings of the 2025 International Conference on Management Science and Computer Engineering. 2025: 364-368.
 ~~~
