@@ -1,7 +1,7 @@
 # 论文信息
 标题：A Dynamic Path Planning Method considering Sea Area Division for Off-shore Wind Farm Maintenance
 
-会议：MSCE 2025 (International Conference on Maritime Science and Engineering)
+会议：MSCE 2025 (International Conference on Management Science and Computer Engineering)
 
 DOI：10.1145/3760023.3760081
 
