@@ -57,7 +57,7 @@
 ### 实验结果
 通过对比不同海域划分点下的路径总长度，本模型成功锁定了**最优划分点 `(25,28)`**，并在仿真中完美展示了应对突发障碍的动态重规划过程。
 
-![Simulation Result](https://private-user-images.githubusercontent.com/133517516/531799723-ff9aa2e1-3647-4928-822c-9ace9e340f29.png)
+![Simulation Result](simulated.png)
 *(图：基于本模型生成的动态避障路径规划仿真结果图)*
 
 ---
